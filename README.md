@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dwi
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Mobile Development
 - 💻 Currently have an internship at the Innovation Center Amikom
 - 📫 How to reach me wdwihartarto@gmail.com
 <!-- - 🌱 I’m currently learning Flutter -->
