@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Dwe
+![Header](img/github-header-image.png)
+
+- 👋 Hi, I’m Dwi
 - 🏢 I'm currently working on @Universitas Amikom Yogyakarta
 - 👀 I’m interested in Mobile Development
 - 📫 You can reach me through wdwihartarto@gmail.com
