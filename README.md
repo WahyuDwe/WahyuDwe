@@ -32,7 +32,7 @@ I'm a passionate mobile developer specializing in Flutter, Kotlin Multiplatform 
 ### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-dwi-hartarto/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wdwihartarto@gmail.com)
 
 ### 🔍 Currently Learning
 
